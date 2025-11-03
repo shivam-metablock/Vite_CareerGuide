@@ -19,7 +19,7 @@ function Home() {
         </div>
         <video className="hero-video" autoPlay muted loop playsInline preload="metadata">
           <source
-            src="./bgVideo.webm"
+            src="/bgVideo.webm"
             type="video/webm"
           />
         </video>
