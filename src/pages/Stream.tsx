@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { getStreamDetails, getStreamCareers, getCoachingForCareer, getCoachingDetails, getNearbyPGs } from '../api/api';
 import SalaryChart from '../components/SalaryChart';
